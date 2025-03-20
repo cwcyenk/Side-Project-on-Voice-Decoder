@@ -1,12 +1,3 @@
-# Intro-github
-This repository follows the book by Beers
+# A favour for Hongbo before I leave
 
-## How to contribute
-- Fork this project
-  - If you don't know how, don't panic! It's covered in an additional chapter of this book.
-- Make your changes
-- Submit a pull request
-  - It's important to have a conversation when opening a pull request. Describe your change and why it should be accepted.
-
-
-kylelevy
+The team has problem in decoding the voice data. I see if I can help.
